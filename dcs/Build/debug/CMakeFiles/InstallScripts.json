@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/eyad/water_heaters_testings/dcs/Build/debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

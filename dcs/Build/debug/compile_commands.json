@@ -1,0 +1,254 @@
+[
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/communicationport/CEA2045SerialPort.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/communicationport/CEA2045SerialPort.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/communicationport/CEA2045SerialPort.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/communicationport/CEA2045SerialPort.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/CEA2045Device.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/CEA2045Device.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/CEA2045Device.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/CEA2045Device.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/CEA2045DeviceUCM.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/CEA2045DeviceUCM.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/CEA2045DeviceUCM.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/CEA2045DeviceUCM.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/DeviceFactory.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/DeviceFactory.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/DeviceFactory.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/DeviceFactory.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/ICEA2045Device.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/ICEA2045Device.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/ICEA2045Device.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/ICEA2045Device.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/MessageHandler.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/MessageHandler.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/MessageHandler.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/MessageHandler.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/Basic.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/Basic.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/Basic.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/Basic.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/Intermediate.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/Intermediate.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/Intermediate.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/Intermediate.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/Message.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/Message.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/Message.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/Message.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/QueryMaxPayload.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/QueryMaxPayload.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/QueryMaxPayload.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/QueryMaxPayload.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/QueryMessageTypeSupported.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/QueryMessageTypeSupported.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/QueryMessageTypeSupported.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/QueryMessageTypeSupported.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetAdvancedLoadUp.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetAdvancedLoadUp.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetAdvancedLoadUp.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetAdvancedLoadUp.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetEnergyPrice.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetEnergyPrice.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetEnergyPrice.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetEnergyPrice.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetSetpoints.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetSetpoints.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetSetpoints.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetSetpoints.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetTemperatureOffset.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetTemperatureOffset.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/SetTemperatureOffset.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/SetTemperatureOffset.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/StartCycling.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/StartCycling.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/StartCycling.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/StartCycling.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/TerminateCycling.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/TerminateCycling.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/device/message/TerminateCycling.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/device/message/TerminateCycling.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/linklayer/ILinkLayerCommRecv.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/linklayer/ILinkLayerCommRecv.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/linklayer/ILinkLayerCommRecv.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/linklayer/ILinkLayerCommRecv.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/linklayer/LinkLayerCommImpl.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/linklayer/LinkLayerCommImpl.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/linklayer/LinkLayerCommImpl.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/linklayer/LinkLayerCommImpl.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/linklayer/ReceiveBuffer.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/linklayer/ReceiveBuffer.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/linklayer/ReceiveBuffer.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/linklayer/ReceiveBuffer.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/message/ConvertEnums.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/message/ConvertEnums.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/message/ConvertEnums.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/message/ConvertEnums.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/processmessage/ProcessMessageSGD.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/processmessage/ProcessMessageSGD.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/processmessage/ProcessMessageSGD.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/processmessage/ProcessMessageSGD.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/processmessage/ProcessMessageUCM.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/processmessage/ProcessMessageUCM.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/processmessage/ProcessMessageUCM.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/processmessage/ProcessMessageUCM.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/util/CEA2045Time.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/util/CEA2045Time.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/util/CEA2045Time.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/util/CEA2045Time.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/util/Checksum.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/util/Checksum.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/util/Checksum.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/util/Checksum.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++ -Dcea2045_EXPORTS -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -fPIC -o CMakeFiles/cea2045.dir/cea2045/cea2045/util/MSTimer.cpp.o -c /home/eyad/water_heaters_testings/dcs/cea2045/cea2045/util/MSTimer.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/cea2045/cea2045/util/MSTimer.cpp",
+  "output": "CMakeFiles/cea2045.dir/cea2045/cea2045/util/MSTimer.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/main.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/main.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/main.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/main.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/mocks/cea2045CommunicationPort/CommunicationPortSGDMock.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/mocks/cea2045CommunicationPort/CommunicationPortSGDMock.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/mocks/cea2045CommunicationPort/CommunicationPortSGDMock.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/mocks/cea2045CommunicationPort/CommunicationPortSGDMock.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/mocks/request/RequestMock.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/mocks/request/RequestMock.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/mocks/request/RequestMock.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/mocks/request/RequestMock.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/CEA2045MesssageUnitTest.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/CEA2045MesssageUnitTest.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/CEA2045MesssageUnitTest.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/CEA2045MesssageUnitTest.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/CEA2045TimeUnitTest.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/CEA2045TimeUnitTest.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/CEA2045TimeUnitTest.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/CEA2045TimeUnitTest.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/ChecksumUnitTest.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/ChecksumUnitTest.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/ChecksumUnitTest.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/ChecksumUnitTest.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/cea2045device/CEA2045DeviceUnitTest.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/cea2045device/CEA2045DeviceUnitTest.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/cea2045device/CEA2045DeviceUnitTest.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/cea2045device/CEA2045DeviceUnitTest.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/linklayer/LinkLayerMock.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/linklayer/LinkLayerMock.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/linklayer/LinkLayerMock.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/linklayer/LinkLayerMock.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/linklayer/LinkLayerUnitTest.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/linklayer/LinkLayerUnitTest.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/linklayer/LinkLayerUnitTest.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/linklayer/LinkLayerUnitTest.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/linklayer/ProcessMessageMock.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/linklayer/ProcessMessageMock.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/linklayer/ProcessMessageMock.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/linklayer/ProcessMessageMock.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/processmessage/LinkLayerSendMock.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/processmessage/LinkLayerSendMock.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/processmessage/LinkLayerSendMock.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/processmessage/LinkLayerSendMock.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/processmessage/ProcessMessageUnitTest.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/processmessage/ProcessMessageUnitTest.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/processmessage/ProcessMessageUnitTest.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/processmessage/ProcessMessageUnitTest.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/testcea2045.dir/test/test/unit/processmessage/UCM.cpp.o -c /home/eyad/water_heaters_testings/dcs/test/test/unit/processmessage/UCM.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/test/test/unit/processmessage/UCM.cpp",
+  "output": "CMakeFiles/testcea2045.dir/test/test/unit/processmessage/UCM.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/sample2.dir/sample2/sample2/UCMImpl.cpp.o -c /home/eyad/water_heaters_testings/dcs/sample2/sample2/UCMImpl.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/sample2/sample2/UCMImpl.cpp",
+  "output": "CMakeFiles/sample2.dir/sample2/sample2/UCMImpl.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/sample2.dir/sample2/sample2/main.cpp.o -c /home/eyad/water_heaters_testings/dcs/sample2/sample2/main.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/sample2/sample2/main.cpp",
+  "output": "CMakeFiles/sample2.dir/sample2/sample2/main.cpp.o"
+},
+{
+  "directory": "/home/eyad/water_heaters_testings/dcs/Build/debug",
+  "command": "/usr/bin/c++  -I/home/eyad/water_heaters_testings/dcs/./cea2045  -Wall -std=c++11 -O0 -g -o CMakeFiles/sample2.dir/sample2/sample2/mcp3008.cpp.o -c /home/eyad/water_heaters_testings/dcs/sample2/sample2/mcp3008.cpp",
+  "file": "/home/eyad/water_heaters_testings/dcs/sample2/sample2/mcp3008.cpp",
+  "output": "CMakeFiles/sample2.dir/sample2/sample2/mcp3008.cpp.o"
+}
+]
